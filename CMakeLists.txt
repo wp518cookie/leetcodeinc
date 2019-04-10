@@ -11,3 +11,4 @@ add_executable(977 977_squares_of_a_sorted_array.c)
 
 
 add_executable(majority top-interview-questions-in-2018/before-you-start/majority_element.c)
+add_executable(search_matrix top-interview-questions-in-2018/before-you-start/search_matrix.c)
