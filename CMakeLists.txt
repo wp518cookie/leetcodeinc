@@ -8,6 +8,7 @@ add_executable(1_two_sum leetcode/1_two_sum.c)
 add_executable(203 leetcode/203_remove_linked_list_elements.c)
 add_executable(771 leetcode/771_jewels_and_stones.c)
 add_executable(977 leetcode/977_squares_of_a_sorted_array.c)
+add_executable(1207 leetcode/hashtable/1207_unique_number_of_occurrences.c)
 
 
 add_executable(majority top-interview-questions-in-2018/before-you-start/majority_element.c)
